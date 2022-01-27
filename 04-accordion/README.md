@@ -1,20 +1,5 @@
-#### Idea
+# Link del sito
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+https://gracious-lamport-9b6591.netlify.app/
 
-![](./idea.png);
-
-#### React Icons
-
-[react icons](https://react-icons.github.io/react-icons/)
-
-```
-npm install react-icons --save
-```
-
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+![image](https://user-images.githubusercontent.com/85701416/151344487-45e3bea4-8e07-4fb3-a38f-3d42ac205f53.png)

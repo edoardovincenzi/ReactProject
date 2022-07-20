@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.javscript linguist-detectable=false
+*.JavaScript { color: #61dafb } linguist-detectable=false
